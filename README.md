@@ -4,7 +4,6 @@ I worked on projects with Defense in Depth and Security Solutions for the govern
 My work focus is on DevSecOps, PenTest Web, PenTest Mobile, and Bug Bounty.
 
 
-![](https://camo.githubusercontent.com/d87412330e179c453793251de9ef574f11d2c570510e949304f1a767ad891b6c/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f336f456a4857706956494f475854356c396d2f67697068792e676966)
 
 ![ezgif-3-a6a5e15ef4](https://user-images.githubusercontent.com/6726442/162440532-a019f883-71ed-4250-8ac9-f4a605ba28da.gif)
 
