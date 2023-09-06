@@ -8,11 +8,11 @@ My work focus is on DevSecOps, PenTest Web and Mobile, and Bug Bounty.
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SunSh1x03&&theme=merko&show_icons=true)
+#![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SunSh1x03&&theme=merko&show_icons=true)
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SunSh1x03&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+#[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SunSh1x03&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
