@@ -1,6 +1,6 @@
 Security Analyst and Pentest Consultant with experience focused on Linux, FreeBSD and Web Applications.<br>
 I worked on projects with Defense in Depth and Security Solutions for the government and military forces.<br>
-My work focus is on DevSecOps, PenTest Web and Mobile, and Bug Bounty.
+My work focus is on DevSecOps, PenTest Web, and Bug Bounty.
 
 
 
