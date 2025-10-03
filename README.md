@@ -30,9 +30,13 @@ Atuei em projetos estratégicos de **Defense in Depth** e **soluções de segura
 ![FreeBSD](https://img.shields.io/badge/FreeBSD-red?style=for-the-badge&logo=freebsd)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux)
-![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure)
+![AWS Security Hub](https://img.shields.io/badge/AWS%20Security%20Hub-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Google SecOps](https://img.shields.io/badge/Google%20SecOps-34A853?style=for-the-badge&logo=google&logoColor=white)
+![Google SCC](https://img.shields.io/badge/Google%20SCC-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Azure Sentinel](https://img.shields.io/badge/Azure%20Sentinel-004578?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Azure AD](https://img.shields.io/badge/Azure%20AD-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+
 
 ## 🔐 Segurança & Pentest
 ![BurpSuite](https://img.shields.io/badge/BurpSuite-FD7E14?style=for-the-badge&logo=burpsuite)
@@ -50,7 +54,7 @@ Atuei em projetos estratégicos de **Defense in Depth** e **soluções de segura
 ![OWASP Top 10](https://img.shields.io/badge/OWASP%20Top%2010-FF6A00?style=for-the-badge)
 
 ## 📜 Certificações
-![LPIC-3](https://img.shields.io/badge/LPIC-3-0033CC?style=for-the-badge)
+![LPIC3](https://img.shields.io/badge/LPIC-3-0033CC?style=for-the-badge)
 ![CEH](https://img.shields.io/badge/CEH-C35A00?style=for-the-badge)
 
 ---
