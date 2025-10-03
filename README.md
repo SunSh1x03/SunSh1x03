@@ -15,15 +15,9 @@ Atuei em projetos estratégicos de **Defense in Depth** e **soluções de segura
 ---
 
 ## 📊 Estatísticas do GitHub
-<div align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SunSh1x03&show_icons=true&theme=merko&include_all_commits=true&cache_seconds=1800&v=2)
 
-<img src="https://github-readme-stats.vercel.app/api?username=SunSh1x03&show_icons=true&theme=merko&include_all_commits=true&cache_seconds=1800&v=2" alt="GitHub Stats" />
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunSh1x03&layout=compact&theme=merko&langs_count=10&size_weight=0.5&count_weight=0.5&cache_seconds=1800&v=2" alt="Top Langs" />
-
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SunSh1x03&layout=compact&theme=merko&langs_count=10&size_weight=0.5&count_weight=0.5&cache_seconds=1800&v=2)
 
 ---
 
