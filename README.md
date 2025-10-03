@@ -22,14 +22,43 @@ Atuei em projetos estratégicos de **Defense in Depth** e **soluções de segura
 
 ---
 
-## 🛠️ Tech Stack
 
+# 🌐 Tech Stack
+
+## 💻 Sistemas & Cloud
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
 ![FreeBSD](https://img.shields.io/badge/FreeBSD-red?style=for-the-badge&logo=freebsd)
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux)
 ![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure)
+
+## 🔐 Segurança & Pentest
 ![BurpSuite](https://img.shields.io/badge/BurpSuite-FD7E14?style=for-the-badge&logo=burpsuite)
+![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-FF6A00?style=for-the-badge)
+![Metasploit](https://img.shields.io/badge/Metasploit-CC3333?style=for-the-badge&logo=metasploit)
+![Nmap](https://img.shields.io/badge/Nmap-7EA800?style=for-the-badge&logo=nmap)
+![Wireshark](https://img.shields.io/badge/Wireshark-0066CC?style=for-the-badge&logo=wireshark)
+![Nuclei](https://img.shields.io/badge/Nuclei-008080?style=for-the-badge)
+![Bug Bounty Tools](https://img.shields.io/badge/Bug%20Bounty%20Tools-6F42C1?style=for-the-badge)
+
+## 📚 Frameworks & Normas
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-101820?style=for-the-badge)
+![NIST CSF](https://img.shields.io/badge/NIST%20CSF-0B3D91?style=for-the-badge)
+![CIS Controls](https://img.shields.io/badge/CIS%20Controls-1F618D?style=for-the-badge)
+![OWASP Top 10](https://img.shields.io/badge/OWASP%20Top%2010-FF6A00?style=for-the-badge)
+
+## 📜 Certificações
+![LPIC-3](https://img.shields.io/badge/LPIC-3-0033CC?style=for-the-badge)
+![CEH](https://img.shields.io/badge/CEH-C35A00?style=for-the-badge)
+
+---
+
+## 📌 Top Languages (exemplo)
+Se estiver usando o serviço **GitHub Readme Stats** para mostrar linguagens principais, cole este badge (ajuste `username`):
+
+
 
 ---
 
