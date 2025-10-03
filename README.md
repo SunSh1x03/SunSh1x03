@@ -5,9 +5,10 @@ Sou Analista de Segurança da Informação e Consultor de Pentest, com sólida e
 Atuei em projetos estratégicos de **Defense in Depth** e **soluções de segurança** para governo e forças militares.  
 
 🔒 Foco de atuação:
-- **DevSecOps** – integração de segurança em pipelines e ambientes cloud  
-- **Pentest Web & Infraestrutura** – identificação e exploração de vulnerabilidades  
-- **Bug Bounty Hunting** – pesquisa e exploração em programas públicos e privados  
+- **Red Team / Pentest** — simulações de ataque, exploração e evasão de defesas  
+- **SOC & Resposta a Incidentes (IR)** — análise de alertas, threat hunting e contenção  
+- **DevSecOps & Automação** — integração de segurança em pipelines e infraestrutura  
+- **Bug Hunting** — discovery e exploração com foco em ativos públicos e privados
 
 ![ezgif-3-a6a5e15ef4](https://user-images.githubusercontent.com/6726442/162440532-a019f883-71ed-4250-8ac9-f4a605ba28da.gif)
 
