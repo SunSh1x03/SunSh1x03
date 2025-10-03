@@ -58,12 +58,6 @@ Atuei em projetos estratégicos de **Defense in Depth** e **soluções de segura
 ![LPIC3](https://img.shields.io/badge/LPIC-3-0033CC?style=for-the-badge)
 ![CEH](https://img.shields.io/badge/CEH-C35A00?style=for-the-badge)
 
----
-
-## 📌 Top Languages (exemplo)
-Se estiver usando o serviço **GitHub Readme Stats** para mostrar linguagens principais, cole este badge (ajuste `username`):
-
-
 
 ---
 
