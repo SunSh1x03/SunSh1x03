@@ -1,5 +1,5 @@
 
-# 👨‍💻 Analista de Segurança & Consultor de Pentest
+# 👨‍💻 Profissional de Segurança da Informação | Pentest & Incident Response
 
 Sou Analista de Segurança da Informação e Consultor de Pentest, com sólida experiência em **Linux, FreeBSD** e **aplicações web**.  
 Atuei em projetos estratégicos de **Defense in Depth** e **soluções de segurança** para governo e forças militares.  
