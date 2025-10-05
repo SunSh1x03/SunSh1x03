@@ -22,7 +22,7 @@ Experiência em projetos de **alta criticidade** para **governo e forças de def
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SunSh1x03&show_icons=true&theme=merko&include_all_commits=true&cache_seconds=1800&v=2)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SunSh1x03&layout=compact&theme=merko&langs_count=10&size_weight=0.5&count_weight=0.5&cache_seconds=14400&v=3)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SunSh1x03&layout=compact&theme=merko&langs_count=10&size_weight=0.5&count_weight=0.5&cache_seconds=1800&v=3)
 
 ---
 
