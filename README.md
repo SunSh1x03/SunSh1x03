@@ -1,8 +1,7 @@
 
 # 👨‍💻 Segurança da Informação | Pentest & Incident Response
 
-Sou Analista de Segurança da Informação e Consultor de Pentest, com sólida experiência em **Linux, FreeBSD** e **aplicações web**.  
-Atuei em projetos estratégicos de **Defense in Depth** e **soluções de segurança** para governo e forças militares.  
+Offensive Security & Pentest, com foco em AppSec e hardening Linux/FreeBSD, entregando Defense in Depth em ambientes de alta criticidade (incl. governo/defesa).
 
 🔒 Foco de atuação:
 - **Red Team / Pentest** — simulações de ataque, exploração e evasão de defesas  
