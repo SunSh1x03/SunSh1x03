@@ -1,7 +1,9 @@
 
 # 👨‍💻 Segurança da Informação | Pentest & Incident Response
 
-Offensive Security & Pentest, com foco em AppSec e hardening Linux/FreeBSD, entregando Defense in Depth em ambientes de alta criticidade (incl. governo/defesa).
+Profissional com mais de **10 anos de experiência em Segurança da Informação**, especializado em **Pentest, Red Team, AppSec e Resposta a Incidentes**.  
+Atuo em ambientes **Linux e FreeBSD**, com foco em **Defense in Depth**, **hardening** e **simulações de ataque realistas**.  
+Experiência em projetos de **alta criticidade** para **governo e forças de defesa**, unindo visão técnica e estratégica.
 
 🔒 Foco de atuação:
 - **Red Team / Pentest** — simulações de ataque, exploração e evasão de defesas  
@@ -10,8 +12,11 @@ Offensive Security & Pentest, com foco em AppSec e hardening Linux/FreeBSD, entr
 - **Bug Hunting** — discovery e exploração com foco em ativos públicos e privados
 
 ![ezgif-3-a6a5e15ef4](https://user-images.githubusercontent.com/6726442/162440532-a019f883-71ed-4250-8ac9-f4a605ba28da.gif)
+ 
 
 ---
+
+
 
 ## 📊 Estatísticas do GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SunSh1x03&show_icons=true&theme=merko&include_all_commits=true&cache_seconds=1800&v=2)
@@ -68,13 +73,21 @@ Offensive Security & Pentest, com foco em AppSec e hardening Linux/FreeBSD, entr
 ![LPIC-3](https://img.shields.io/badge/LPIC--3-0033CC?style=for-the-badge&logo=linuxfoundation&logoColor=white)
 ![CEH](https://img.shields.io/badge/CEH-C35A00?style=for-the-badge&logo=ec-council&logoColor=white)
 
+---
+
+## 📬 Contato
+
+🔗 [LinkedIn](https://www.linkedin.com/in/filipepenido)  
+
 
 ---
 
-## 📌 Sobre Mim
-- 🎯 Mais de 10 anos em **Segurança da Informação**  
-- 🕵️‍♂️ Experiência em **Threat Hunting, Forense e Resposta a Incidentes**  
-- 🚀 Participação em **projetos críticos e de alta complexidade**  
+---
+
+## ⚔️ Ética & Conduta
+Todos os projetos aqui têm **finalidade educacional e laboratorial**.  
+Não devem ser utilizados em sistemas de terceiros sem **autorização expressa**.  
+Promovo o uso responsável e ético das práticas de **Offensive Security**.
 
 ---
 
